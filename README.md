@@ -18,6 +18,7 @@ Gosto de aprender e me desafiar, posso acabar deslizando nos estudos as vezes, m
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle)
 
 ## Github Stats
 [![Raffozo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellegend&theme=transparent&bg_color=000&border_color=3ddc84&show_icons=true&icon_color=3ddc84&title_color=3ddc84&text_color=FFF)](https://github.com/rafaellegend/github-readme-stats)

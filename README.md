@@ -6,7 +6,7 @@ Gosto de aprender e me desafiar, posso acabar deslizando nos estudos as vezes, m
 
 ## Conecte-se comigo
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-de-jesus-alves-709734188/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeldejesus-dev/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/Rafaellegend)
 
 ## Habilidades

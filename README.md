@@ -1,4 +1,4 @@
-# Olá, sou Raffozo
+# Olá, sou Rafaellegend
 Olá, me chamo Rafael de Jesus, sou formado em Sistemas para Internet pela FATEC e já trabalhei na área de TI da prefeitura da minha cidade.
 
 Gosto de aprender e me desafiar, posso acabar deslizando nos estudos as vezes, mas sempre me encontro fazendo algo relacionado a tecnologia.
